@@ -14,5 +14,8 @@ temp_audio.wav
 # macOS
 .DS_Store
 
-# Claude config
+# IDE and config files
+.flake8
+.mcp.json
+.claude/
 CLAUDE.md
