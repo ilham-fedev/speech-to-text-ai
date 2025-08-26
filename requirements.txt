@@ -1,0 +1,8 @@
+speechrecognition==3.10.4
+openai-whisper
+torch
+torchaudio
+numpy
+flake8
+black
+isort
